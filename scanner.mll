@@ -1,4 +1,4 @@
-(* Ocamllex scanner for BlisB *)
+(* Ocamllex scanner for Blis *)
 
 { open Parser }
 
